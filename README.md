@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nivsasi@gmail.com**
 
-- ⚡ Fun fact **I am have enlisted to the army and will mainly work in web development:)**
+- ⚡ Fun fact **I have enlisted in the army and will mainly work in full-stack development :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
