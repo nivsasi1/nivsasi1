@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Niv Sasi</h1>
+<h1 align="center">Hi, I'm Niv Sasi</h1>
 <h3 align="center">A passionate developer from Israel</h3>
 
-- 🔭 I’m currently working on **a site featuring my works**
+-  I’m currently working on **a site featuring my works**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nivsasi1](https://github.com/nivsasi1)
+-  All of my projects are available at [https://github.com/nivsasi1](https://github.com/nivsasi1)
+- 
+-  How to reach me **nivsasi@gmail.com**
 
-- 📫 How to reach me **nivsasi@gmail.com**
-
-- ⚡ Fun fact **I have enlisted in the army and will mainly work in full-stack development :)**
+-  Fun fact **I have enlisted in the army and will mainly work in full-stack development :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
