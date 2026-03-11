@@ -4,7 +4,7 @@
 -  I’m currently working on **a site featuring my works**
 
 -  All of my projects are available at [https://github.com/nivsasi1](https://github.com/nivsasi1)
-- 
+
 -  How to reach me **nivsasi@gmail.com**
 
 -  Fun fact **I have enlisted in the army and will mainly work in full-stack development :)**
