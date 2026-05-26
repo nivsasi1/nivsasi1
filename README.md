@@ -7,8 +7,6 @@
 
 -  How to reach me **nivsasi@gmail.com**
 
--  Fun fact **I have enlisted in the army and will mainly work in full-stack development :)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/niv.sasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niv.sasi" height="30" width="40" /></a>
