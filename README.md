@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Niv Sasi</h1>
 <h3 align="center">A passionate developer from Israel</h3>
 
--  I’m currently working on **a site featuring my works**
+-  I’m currently working on **[https://niv-sasi.vercel.app.](https://niv-sasi.vercel.app.)**
 
 -  All of my projects are available at [https://github.com/nivsasi1](https://github.com/nivsasi1)
 
