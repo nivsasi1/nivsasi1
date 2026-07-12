@@ -13,8 +13,6 @@ Local voice dictation for Windows — push-to-talk, GPU Whisper transcription (H
 **[pythonMotionEye](https://github.com/nivsasi1/pythonMotionEye)**
 Control your computer with your eyes: real-time OpenCV + dlib gaze tracking moves the cursor, winks click, hand gestures trigger shortcuts.
 
-**[nivsTanks](https://github.com/nivsasi1/nivsTanks)**
-Vehicle fleet web manager built during my army service.
 
 More on my portfolio: [niv-sasi.vercel.app](https://niv-sasi.vercel.app)
 
